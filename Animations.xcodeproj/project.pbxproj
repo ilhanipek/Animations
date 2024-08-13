@@ -21,6 +21,7 @@
 		454F65772C6B659E004550F5 /* PathAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454F65762C6B659E004550F5 /* PathAnimationView.swift */; };
 		454F65792C6BBB4C004550F5 /* GridAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454F65782C6BBB4C004550F5 /* GridAnimation.swift */; };
 		454F657B2C6BC2D2004550F5 /* ReflectionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454F657A2C6BC2D2004550F5 /* ReflectionAnimation.swift */; };
+		454F657D2C6BC6AB004550F5 /* CardAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454F657C2C6BC6AB004550F5 /* CardAnimations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		454F65762C6B659E004550F5 /* PathAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathAnimationView.swift; sourceTree = "<group>"; };
 		454F65782C6BBB4C004550F5 /* GridAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridAnimation.swift; sourceTree = "<group>"; };
 		454F657A2C6BC2D2004550F5 /* ReflectionAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReflectionAnimation.swift; sourceTree = "<group>"; };
+		454F657C2C6BC6AB004550F5 /* CardAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				454F65762C6B659E004550F5 /* PathAnimationView.swift */,
 				454F65782C6BBB4C004550F5 /* GridAnimation.swift */,
 				454F657A2C6BC2D2004550F5 /* ReflectionAnimation.swift */,
+				454F657C2C6BC6AB004550F5 /* CardAnimations.swift */,
 				454F655E2C6A660A004550F5 /* Assets.xcassets */,
 				454F65602C6A660A004550F5 /* Preview Content */,
 			);
@@ -177,6 +180,7 @@
 				454F65752C6B5D4A004550F5 /* AnimatingCardView.swift in Sources */,
 				454F656B2C6A6C58004550F5 /* RotationAnimation.swift in Sources */,
 				454F656D2C6ABE27004550F5 /* 3DRotationAnimation.swift in Sources */,
+				454F657D2C6BC6AB004550F5 /* CardAnimations.swift in Sources */,
 				454F655B2C6A6608004550F5 /* AnimationsApp.swift in Sources */,
 				454F657B2C6BC2D2004550F5 /* ReflectionAnimation.swift in Sources */,
 			);
